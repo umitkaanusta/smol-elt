@@ -31,12 +31,12 @@ see how it works down there 👇
 - Create credentials for Google Sheets API
     - https://gspread.readthedocs.io/en/latest/oauth2.html
     - Follow the instructions below the `For Bots` part
-    - Save the output as `smol/credentials/gsheet_credentials.json`
+    - Save the output as `credentials/gsheet_credentials.json`
 - Create credentials for AWS
     - Open an AWS account if you don't have it
     - Create an IAM user with `AmazonSNSFullAccess` policy
     - Get your security credentials
-    - Save your credentials with the given format in `smol/credentials/aws_credentials.json`
+    - Save your credentials with the given format in `credentials/aws_credentials.json`
 - Configure SNS
     - Create an SNS topic and subscribe your e-mail address to that topic
 - Edit files for your use case
