@@ -17,10 +17,10 @@ see how it works down there 👇
 
 
 ### Alert Messages
-**Success**
+#### Success
 ![Success](images/success.PNG)
 
-**Failure**
+#### Failure
 ![Failure](images/failure.PNG)
 
 
